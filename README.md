@@ -1,7 +1,7 @@
 # World Happiness Report 2024 Analysis (Python)
 
 ## Table of Contents
-- [Overview](#overview)
+- [Objective](#objective)
 - [Data Sources](#data-sources)
 - [Tools and Libraries](#tools-and-libraries)
 - [Project Structure](#project-structure)
@@ -16,7 +16,7 @@
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## Overview
+## Objective
 
 This project analyzes the **World Happiness Report 2024** dataset to uncover trends and insights into global happiness. The analysis leverages multiple socio-economic indicators such as GDP per capita, social support, life expectancy, and more. Additionally, geographic data from **Natural Earth** is integrated to visualize spatial patterns of happiness across countries.
 
