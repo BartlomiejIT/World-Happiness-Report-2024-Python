@@ -1,9 +1,0 @@
-<script>start("/Users/bartlomiejpodstawek/PycharmProjects/analiza_danych_projekt/project_world_happiness_report_2024_analyze(python)/geographical countries data/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("ne_110m_admin_0_countries.cpg","ne_110m_admin_0_countries.cpg",0,5,"5 B",1728819704,"13/10/2024, 13:41:44");</script>
-<script>addRow("ne_110m_admin_0_countries.dbf","ne_110m_admin_0_countries.dbf",0,531808,"519 kB",1728819704,"13/10/2024, 13:41:44");</script>
-<script>addRow("ne_110m_admin_0_countries.prj","ne_110m_admin_0_countries.prj",0,147,"147 B",1728819704,"13/10/2024, 13:41:44");</script>
-<script>addRow("ne_110m_admin_0_countries.README.html","ne_110m_admin_0_countries.README.html",0,41905,"40.9 kB",1728819704,"13/10/2024, 13:41:44");</script>
-<script>addRow("ne_110m_admin_0_countries.shp","ne_110m_admin_0_countries.shp",0,180924,"177 kB",1728819704,"13/10/2024, 13:41:44");</script>
-<script>addRow("ne_110m_admin_0_countries.shx","ne_110m_admin_0_countries.shx",0,1516,"1.5 kB",1728819704,"13/10/2024, 13:41:44");</script>
-<script>addRow("ne_110m_admin_0_countries.VERSION.txt","ne_110m_admin_0_countries.VERSION.txt",0,7,"7 B",1728819704,"13/10/2024, 13:41:44");</script>
